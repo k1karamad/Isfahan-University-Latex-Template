@@ -1,2 +1,29 @@
+# LaTeX temporary files
 *.aux
-*.DS_Store
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.lof
+*.lot
+*.bcf
+*.run.xml
+*.nav
+*.snm
+*.vrb
+
+# Bibliography temporary files
+*.bbl
+*.blg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
